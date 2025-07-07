@@ -1,10 +1,10 @@
-# ¡Hola! Soy Valeria Zapata Franco 👋
+# 👩‍🔬 Valeria Zapata Franco
 
-Soy estudiante de **Ingeniería** en quinto semestre en la **Fundación Universidad de América**. Me gusta la **programación**, las **matemáticas**, y todo lo relacionado con el análisis de datos, el modelado matemático y la ciencia aplicada.
+Estudiante de **Ingeniería de Petróleos** e **Ingeniería Industrial** en quinto semestre en la **Fundación Universidad de América**. Me gusta la inteligencia artificial, la programación, la ciencia aplicada y el desarrollo de modelos para resolver problemas reales en los campos de la industria.
 
 ---
 
-## 🧠 Lenguajes de Programación
+## 💻 Lenguajes de Programación
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=flat&logo=python&logoColor=white" height="20"/>
   <img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat&logo=r&logoColor=white" height="20"/>
@@ -15,41 +15,45 @@ Soy estudiante de **Ingeniería** en quinto semestre en la **Fundación Universi
 
 ---
 
-## 📚 Bibliotecas de Python
+## 🧰 Bibliotecas y Herramientas en Python
 <p>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=flat&logo=Jupyter&logoColor=white" height="20"/>
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%230095D5.svg?&style=flat&logo=numpy&logoColor=white" height="20"/>
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=flat&logo=pandas&logoColor=white" height="20"/>
   <img alt="SymPy" src="https://img.shields.io/badge/SymPy-%23239120.svg?&style=flat&logo=sympy&logoColor=white" height="20"/>
-  <img alt="scipy" src="https://img.shields.io/badge/scipy-%230C55A5.svg?&style=flat&logo=scipy&logoColor=white" height="20"/>
+  <img alt="SciPy" src="https://img.shields.io/badge/scipy-%230C55A5.svg?&style=flat&logo=scipy&logoColor=white" height="20"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=flat&logo=tensorflow&logoColor=white" height="20"/>
   <img alt="Keras" src="https://img.shields.io/badge/keras-%23D00000.svg?&style=flat&logo=keras&logoColor=white" height="20"/>
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?&style=flat&logo=Streamlit&logoColor=white" height="20"/>
 </p>
 
 ---
 
-## 💡 Intereses Académicos
-- Aprendizaje automático (Machine Learning)
-- Ciencia de datos y grandes volúmenes de información
-- Modelado matemático aplicado a la ingeniería
-- Solubilidad de fármacos y propiedades fisicoquímicas
+## 🎯 Intereses Académicos y Profesionales
+- Desarrollo de modelos matemáticos y computacionales
+- Ciencia de datos y análisis de sistemas complejos
+- Ingeniería de procesos e investigación aplicada
+- Energía, radiación, materiales y medio ambiente
+- Visualización de datos y dashboards interactivos con Python
 
 ---
 
-## 📬 Contacto
-Si quieres conectarte o colaborar, puedes escribirme por [Twitter](https://twitter.com/) o por correo (agrega tu correo aquí si deseas).
+## 🗣 Idiomas
+- Español (nativo)
+- Inglés (nivel intermedio)
 
 ---
 
-<!--
-Este README está diseñado para destacar tu perfil en GitHub.
+## 🚀 Objetivo Profesional
+Mi propósito es aplicar herramientas de programación y modelado para optimizar procesos industriales, analizar datos científicos y contribuir con soluciones eficientes en el sector energético y de manufactura.
 
-Sugerencias para expandir:
-- 🔭 Proyectos en desarrollo
-- 🌱 Habilidades que estás aprendiendo
-- 👯 Colaboraciones abiertas
-- 💬 Temas que dominas
-- 📫 Cómo encontrarte
-- ⚡ Dato curioso sobre ti
--->
+---
+
+## 🌐 Contacto
+- 📫 Correo: *vayitas2@gmail.com*
+- 💻 GitHub: [github.com/valeriazapata](https://github.com/valeriazapata)
+
+---
+
+
 
