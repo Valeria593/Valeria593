@@ -17,7 +17,7 @@
 
 ## 📬 Contacto
 Insignia de Twitter
-[![LinkedIn Insignia](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin .com/es/rossember-eden-cardenas-torres-928629192/)](https://www.linkedin.com/es/rossember-eden-cardenas-torres-928629192/)
+
 <!--
 **erivera23/erivera23** es un repositorio ✨ _especial_ ✨ porque su `README.md` (este archivo) aparece en su perfil de GitHub.
 
