@@ -1,6 +1,6 @@
-# 👩‍🔬 Valeria Zapata Franco
+# Hola, soy Valeria Zapata Franco 👩‍🔬
 
-Estudiante de **Ingeniería de Petróleos** e **Ingeniería Industrial** en quinto semestre en la **Fundación Universidad de América**. Me gusta la inteligencia artificial, la programación, la ciencia aplicada y el desarrollo de modelos para resolver problemas reales en los campos de la industria.
+Estudiante de **Ingeniería de Petróleos** e **Ingeniería Industrial** en quinto semestre en la **Universidad de América**. Me gusta la inteligencia artificial, la programación, la ciencia aplicada y el desarrollo de modelos para resolver problemas reales en los campos de la industria.
 
 ---
 
